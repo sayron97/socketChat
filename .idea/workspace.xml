@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a205d9be-70e9-407b-9c62-ec865a686e3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fyO8Zslu0qHC5deERRiEyqEbs3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.0.27" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../expressjsTest" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programming\project\node_test\views\layouts" />
+      <recent name="D:\programming\project\node_test\views" />
+      <recent name="D:\programming\project\node_test\views\partial" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a205d9be-70e9-407b-9c62-ec865a686e3a" name="Default Changelist" comment="" />
+      <created>1597186708251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597186708251</updated>
+      <workItem from="1597186709779" duration="1720000" />
+      <workItem from="1597232285761" duration="1137000" />
+      <workItem from="1597327223287" duration="1147000" />
+      <workItem from="1597420051399" duration="4509000" />
+      <workItem from="1597442725276" duration="623000" />
+      <workItem from="1599474626167" duration="2508000" />
+      <workItem from="1599526866082" duration="1211000" />
+      <workItem from="1599553555340" duration="20078000" />
+      <workItem from="1599636567719" duration="15923000" />
+      <workItem from="1599681453941" duration="67000" />
+      <workItem from="1599917601071" duration="8517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="122" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599919629630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="122" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599919629630" />
+    <state x="394" y="167" key="FileChooserDialogImpl" timestamp="1599919524216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="394" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599919524216" />
+    <state x="110" y="60" key="SettingsEditor" timestamp="1597423577041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="110" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597423577041" />
+    <state x="240" y="0" width="1011" height="534" key="dock-window-1" timestamp="1597232927302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="240" y="0" width="1011" height="534" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1597232927302" />
+    <state x="258" y="190" key="run.anything.popup" timestamp="1597423490369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="258" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1597423490369" />
+    <state x="264" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597423496514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="264" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1597423496514" />
+  </component>
+</project>
